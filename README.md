@@ -1,2 +1,2 @@
 # Hillel_QA
-Lecture 16 Homework
+Lecture 24 Homework 17
